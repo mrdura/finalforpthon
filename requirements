@@ -1,1 +1,6 @@
 # The requirements for this program are 
+A string that contains the story template
+Some objects that manages “blank spaces”, including describing the appropriate part of speech for the “blank” and the users’ response
+A method for prompting for and managing user input
+A method for generating the completed Mad Lib
+A method for displaying the resulting story.
