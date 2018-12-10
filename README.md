@@ -6,3 +6,4 @@ I created this program to give to my mom so that she can use it at her school to
 how- i will be using a templating software as a base for this poject which will allow changing the story line quickly without changing the code. the code will be used to inport this .txt file 
 usage- This is mostly for entertainment but will also be used to help teach parts of speach 
 refrences 
+[madlibs](http://www.madlibs.com/)
